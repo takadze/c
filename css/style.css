@@ -1,0 +1,106 @@
+body{
+    background-color: rgb(152, 161, 134);
+}
+.card-img-top{
+    height: 350px;
+    width: 300px;
+    border-radius: 550px;
+    padding: 15px;
+    background-color: rgb(59, 206, 22);
+}
+.card-group{
+    width: 800px;
+    margin: 0 auto;
+    background-color: rgb(43, 17, 17)
+}
+.Shopping-card-2{
+    display: flex;
+}
+.icon-box{
+    padding-right: 10px;
+    color:  wheat;
+    font-weight: 800;
+    font-size: 20px;
+}
+.icon-name-box {
+    padding-right: 10px;
+    color: wheat;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 20px;
+}
+.icon-name-box a{
+    color: wheat;
+    text-decoration: none;
+}
+.card-title{
+    text-align: center;
+    color: wheat;
+    margin-bottom: -15px;
+    font-weight: 800;
+}
+.Online-Shopping h2{
+    text-align: center;
+    color: wheat;
+}
+.card{
+    border: none;
+    background: none;
+}
+.Online-Shopping{
+    border: none;
+    background: none;
+}
+.progress{
+    width: 350px;
+    margin: 5px;
+    height: 25px;
+    background-color: tomato;
+    border-radius: 100px solid rgb(43, 17, 17);
+    border: rgb(43, 17, 17);
+}
+.progress-bar{
+    background: rgb(59, 206, 22);
+}
+.skils-name{
+    font-size: 18px;
+    font-weight: 800;
+    padding-left: 10px;
+    height: 25px;
+    background: rgb(43, 17, 17);
+    color: wheat;
+}
+.skils-name2{
+    font-size: 18px;
+    font-weight: 800;
+    padding-left: 10px;
+    height: 25px;
+    background: rgb(43, 17, 17);
+    color: wheat;
+}
+.skils-name1{
+    font-size: 18px;
+    font-weight: 800;
+    padding-left: 10px;
+    height: 25px;
+    background: rgb(43, 17, 17);
+    color: wheat;
+}
+.texti{
+    height: 600px;
+    width: 380px;
+    padding: 15px;
+    background-color: rgb(59, 206, 22);
+    margin-top: 20px;
+    border-radius: 20px;
+    border: 2px solid  tomato;
+   
+}
+.texti{
+    coloe: rgb(43, 17, 17);
+}
+.texti p{
+    font-size: 18px;
+    text-align: start;
+    padding-top: ;
+}
